@@ -21,7 +21,35 @@ p.intro {
 }
 
 img.intro {
-  display: block;
-  border: 100px solid;
-  border-color: pink;
+  float: left;
+}
+
+.important {
+  color: green
+}
+
+.unimportant {
+  border: 100px solid purple;
+}
+
+.recipes {
+  color: yellow;
+  font-size: 75px;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+.sidebar {
+  width: 30%;
+  height: 100%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
