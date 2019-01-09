@@ -1,0 +1,27 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 100px;
+  font-weight: bold;
+  border: 20px solid black;
+}
+
+h2.intro {
+  font-size: 30px;
+  font-family: cursive;
+}
+
+p.intro {
+  font-size: 20px;
+  text-decoration: line-through;
+  color: aquamarine;
+}
+
+img.intro {
+  display: block;
+  border: 100px solid;
+  border-color: pink;
+}
